@@ -1,0 +1,70 @@
+SteamOS NVIDIA Image Builder — Privacy Policy
+Effective date: July 29, 2026
+
+SteamOS NVIDIA Image Builder is published by TidySweep Software. The
+application is designed to process files locally on the user’s Windows PC.
+
+DATA COLLECTION
+
+TidySweep Software does not collect, transmit, sell, rent, or share personal
+data through this application. The application contains no advertising,
+analytics, telemetry, user accounts, or tracking technology.
+
+LOCAL FILE ACCESS
+
+The application accesses only the SteamOS recovery image and output folder
+selected by the user. It copies the selected image into a local Linux build
+environment, creates a separate modified output image, validates that output,
+and copies the completed files to the user’s selected Windows folder. The
+original source image is not modified.
+
+WINDOWS AND LINUX FEATURES
+
+The application can use Microsoft Windows Subsystem for Linux (WSL2) and an
+Arch Linux environment to perform Linux disk-image operations that Windows
+cannot perform directly. With the user’s approval, the environment setup
+feature may ask Windows to enable or install required Microsoft components.
+Temporary build files remain on the local PC and are removed after processing
+or during automatic recovery after an interrupted build.
+
+INTERNET ACCESS
+
+Internet access is used only when the user requests setup or starts a build.
+The application may connect to official Microsoft services for WSL components,
+Valve’s official SteamOS download and package services, and official Arch
+Linux package infrastructure to obtain required signed software packages.
+TidySweep Software does not receive the user’s files, URLs, device content, or
+download activity.
+
+DIAGNOSTIC INFORMATION
+
+Build progress is shown locally. If a build fails, the application can save a
+local text log in the selected output folder so the user can review or
+voluntarily attach it to a support email. Logs are not uploaded automatically.
+Users should review a log before sharing it because it can contain local file
+paths and technical environment details.
+
+THIRD-PARTY SOFTWARE
+
+SteamOS, NVIDIA software, Microsoft WSL, Arch Linux packages, and other
+third-party components remain subject to their respective licenses and privacy
+practices. TidySweep Software is independent and is not affiliated with,
+endorsed by, or sponsored by Valve, NVIDIA, Microsoft, or Arch Linux.
+
+CHILDREN’S PRIVACY
+
+The application is a technical desktop utility and is not directed at
+children. It does not knowingly collect personal information from anyone.
+
+CHANGES TO THIS POLICY
+
+This policy may be updated when application functionality or legal
+requirements change. The effective date above identifies the current version.
+
+CONTACT
+
+Questions or privacy requests:
+tidysweepsoftware@gmail.com
+
+Publisher:
+TidySweep Software
