@@ -51,19 +51,13 @@ Product features
 - WSL-compatible handling of Valve's casefold-enabled home partition
 - Local processing with no accounts or tracking
 
-What's new in 1.0.2
+What's new in 1.0.5
 -------------------
-- Added guided automatic installation and repair of the WSL2/Arch engine.
-- Fixed the Linux build-engine selector when no distribution is installed.
-- Added RTX 20, 30, 40, and 50 series support profiles.
-- Added automatic NVIDIA GPU detection and manual target selection.
-- Changed the default driver selection to current signed Arch packages.
-- Renamed the product to clearly describe its purpose.
-- Updated setup, safety text, and certification documentation.
-- Fixed image builds on WSL2 when Valve's casefold-enabled home partition
-  cannot be mounted by the Microsoft WSL kernel.
-- Moved the optional SteamOS install/upgrade launchers into the system image,
-  where they remain available from the application menu.
-- Completed end-to-end build and read-only validation against the current
-  official SteamOS recovery image and signed NVIDIA 610.43.03 packages.
+- Uninstall Arch Linux button
+- Verifies the selected environment is genuinely Arch Linux
+- Clear permanent-deletion warning
+- Defaults to No
+- Disabled while building
+- Never deletes completed images stored in Windows folders
+- Refreshes the Linux environment list after removal
 
