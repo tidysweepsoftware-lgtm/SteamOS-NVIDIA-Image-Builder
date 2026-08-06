@@ -11,7 +11,12 @@ Description
 NOW AVAILABLE IN MICROSOFT STORE:
 ## Download
 
-[![Get it from Microsoft Store](https://img.shields.io/badge/Get_it_from-Microsoft_Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9NS4Z4L6VG32?hl=en-us&gl=US&ocid=pdpshare)
+<a href="https://apps.microsoft.com/detail/9NS4Z4L6VG32?hl=en-us&gl=US&ocid=pdpshare">
+  <img
+    src="https://img.shields.io/badge/Get_it_from-Microsoft_Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
+    alt="Get it from Microsoft Store"
+    width="360">
+</a>
 
 
 SteamOS NVIDIA Image Builder is a guided Windows utility for advanced users
