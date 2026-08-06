@@ -1,6 +1,10 @@
 <img width="1099" height="769" alt="Screenshot 2026-08-06 163234" src="https://github.com/user-attachments/assets/b5dc7865-3a29-4369-a22b-b95ebb7e6e46" />
 
+## Video tutorial
 
+[![Watch the SteamOS NVIDIA Image Builder tutorial](https://img.youtube.com/vi/0rwuAZqN0Ls/maxresdefault.jpg)](https://www.youtube.com/watch?v=0rwuAZqN0Ls)
+
+**[▶ Watch the complete tutorial on YouTube](https://www.youtube.com/watch?v=0rwuAZqN0Ls)**
 
 Description
 -----------
