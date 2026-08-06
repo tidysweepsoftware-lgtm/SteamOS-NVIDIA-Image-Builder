@@ -8,7 +8,7 @@
 
 Description
 -----------
-NOW AVAILABLE IN MICROSOFT STORE:
+**NOW AVAILABLE IN MICROSOFT STORE:**
 ## Download
 
 <a href="https://apps.microsoft.com/detail/9NS4Z4L6VG32?hl=en-us&gl=US&ocid=pdpshare">
