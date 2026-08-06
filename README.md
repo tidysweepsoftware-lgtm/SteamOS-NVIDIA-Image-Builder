@@ -74,27 +74,27 @@ Instead of manually configuring Linux tools and entering a long series of comman
 What’s new
 Support for NVIDIA RTX 20, 30, 40 and 50 series GPUs
 
-Guided NVIDIA driver integration
+- Guided NVIDIA driver integration
 
-Automatic Linux build-environment setup
+- Automatic Linux build-environment setup
 
-Improved SteamOS installation workflow
+- Improved SteamOS installation workflow
 
-Better physical-drive detection
+- Better physical-drive detection
 
-Drives clearly identified as empty, occupied, system-related or installer media
+- Drives clearly identified as empty, occupied, system-related or installer media
 
-Empty drives shown as recommended installation targets
+- Empty drives shown as recommended installation targets
 
-Clear warnings for drives containing Windows, partitions or personal files
+- Clear warnings for drives containing Windows, partitions or personal files
 
-Improved build validation, recovery and progress information
+- Improved build validation, recovery and progress information
 
-Option to remove the Arch Linux build environment when it is no longer needed
+- Option to remove the Arch Linux build environment when it is no longer needed
 
-Tools for easier future NVIDIA driver maintenance
+- Tools for easier future NVIDIA driver maintenance
 
-Arch Linux uninstall button in app
+- Arch Linux uninstall button in app
 
 The original SteamOS recovery image is never modified. The application works from a copy, validates the finished image and generates a checksum and build report.
 
