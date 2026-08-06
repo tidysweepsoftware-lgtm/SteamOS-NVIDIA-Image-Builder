@@ -1,6 +1,3 @@
-<img width="5712" height="4284" alt="IMG_2737" src="https://github.com/user-attachments/assets/74fe8238-b717-4649-884e-49bd9234f61b" />
-<img width="5712" height="4284" alt="IMG_2739" src="https://github.com/user-attachments/assets/acad5e87-34a8-47e2-951a-7eb515a2dcd7" />
-<img width="1101" height="769" alt="Screenshot 2026-07-29 070314" src="https://github.com/user-attachments/assets/1c62f8be-8ba4-4fdf-be2c-4ea8e3ed87b7" />
 
 
 
@@ -50,13 +47,55 @@ Product features
 - WSL-compatible handling of Valve's casefold-enabled home partition
 - Local processing with no accounts or tracking
 
-What's new in 1.0.5
--------------------
-- Uninstall Arch Linux button
-- Verifies the selected environment is genuinely Arch Linux
-- Clear permanent-deletion warning
-- Defaults to No
-- Disabled while building
-- Never deletes completed images stored in Windows folders
-- Refreshes the Linux environment list after removal
+ 
+
+https://youtu.be/0rwuAZqN0Ls
+
+
+
+SteamOS on NVIDIA desktop PCs is getting easier — major update now available
+
+I’ve been developing SteamOS NVIDIA Image Builder, an independent Windows application that makes preparing a SteamOS installation image for NVIDIA-powered desktop and laptop PCs much simpler.
+
+Instead of manually configuring Linux tools and entering a long series of commands, the application guides you through the process and prepares the NVIDIA-compatible image for you.
+
+What’s new
+Support for NVIDIA RTX 20, 30, 40 and 50 series GPUs
+
+Guided NVIDIA driver integration
+
+Automatic Linux build-environment setup
+
+Improved SteamOS installation workflow
+
+Better physical-drive detection
+
+Drives clearly identified as empty, occupied, system-related or installer media
+
+Empty drives shown as recommended installation targets
+
+Clear warnings for drives containing Windows, partitions or personal files
+
+Improved build validation, recovery and progress information
+
+Option to remove the Arch Linux build environment when it is no longer needed
+
+Tools for easier future NVIDIA driver maintenance
+
+Arch Linux uninstall button in app
+
+The original SteamOS recovery image is never modified. The application works from a copy, validates the finished image and generates a checksum and build report.
+
+Download from Microsoft Store
+Download SteamOS NVIDIA Image Builder
+
+This tool is intended for desktop and laptop PCs, not handheld devices. It is experimental and unofficial, and it is not affiliated with, endorsed by or supported by Valve, NVIDIA or Microsoft.
+
+Installation might take some time so please be patient!
+
+Secure Boot may need to be disabled, and testing the generated image on a spare drive is strongly recommended. Installing an operating system can erase the selected drive, so always verify the drive information and keep a backup of important files.
+
+The goal is to turn a complicated command-line procedure into a clear, guided process that more PC users can understand.
+
+Feedback is very welcome—especially from people testing SteamOS on NVIDIA hardware. Which GPU are you using, and what would you like to see improved next?
 
