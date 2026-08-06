@@ -15,7 +15,7 @@ NOW AVAILABLE IN MICROSOFT STORE:
   <img
     src="https://img.shields.io/badge/Get_it_from-Microsoft_Store-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
     alt="Get it from Microsoft Store"
-    width="360">
+    width="400">
 </a>
 
 
